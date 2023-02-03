@@ -1,4 +1,3 @@
-ID OMM station;	Date;	Pression au niveau mer;	Direction du vent moyen 10 mn;	Vitesse du vent moyen 10 mn;	HumiditÃ©;	Pression station;	Variation de pression en 24 heures;	PrÃ©cipitations dans les 24 derniÃ¨res heures;	Coordonnees;	TempÃ©rature (Â°C);	TempÃ©rature minimale sur 24 heures (Â°C);	TempÃ©rature maximale sur 24 heures (Â°C);	Altitude;	communes (code);;
 07558;2010-01-05T10:00:00+01:00;100280;260;1.5;100;91870.0;;;44.1185,3.0195;2.6000000000000227;;;712;12145
 61976;2010-01-05T10:00:00+01:00;100990;;;69;;;;-15.887667,54.520667;32.30000000000001;;;7;
 07027;2010-01-05T13:00:00+01:00;100720;200;3.6;87;99880.0;;;49.18,-0.456167;0.5;;;67;14137
