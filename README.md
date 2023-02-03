@@ -28,8 +28,8 @@ To verify if your file is compatible with this program :
                     
 There are 3 different type of sorting :
     --avl : sorting by binary search and balanced tree;
-    --abr : sorting by binary search tree;
-    --tab : sorting by table.
+    --abr : sorting by binary search tree.
+    
                     
 --help  affiche l'aide
                 
