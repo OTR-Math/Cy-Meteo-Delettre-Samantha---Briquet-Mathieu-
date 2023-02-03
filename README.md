@@ -1,4 +1,4 @@
-# Cy-Meteo
+# Cy-Meteo Samantha D. & Mathieu B.
 Meteo
 
 To use this program, the instructions are listed with the command:
