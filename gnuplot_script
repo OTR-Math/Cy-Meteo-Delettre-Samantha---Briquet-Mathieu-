@@ -1,0 +1,16 @@
+set output './photos/curve_t2.png'
+set terminal png size 800,500 enhanced background rgb 'white'
+set style line 1 lt 1 lw 1.5 pt 3 linecolor rgb '#2b63ff'
+set autoscale
+set xtic auto
+set ytic auto
+set title 'Gnuplot curve for temperatures graph type with mode t2'
+set xlabel 'date time'
+set ylabel 'temperatures'
+set xdata time
+set timefmt '%Y-%m-%dT%H:%M:%S+01:00'
+set format x '%Y-%m-%dT%H:%M:%S+01:00'
+set nokey
+set datafile separator ';'
+FILES = system('ls -1 ./generated/tempOrdered*.gpdat')
+plot for [datafile in FILES] datafile using 1:4 with linespoints ls 1
