@@ -1,7 +1,11 @@
 # Cy-Meteo
 Meteo
+
 To use this program, the instructions are listed with the command:
 ./main.sh --help
+
+The file data.csv ( initially named meteo_filtered_data ) is not complete here, you can download it elsewhere.
+
 There are 9 different filtering options:
     -w (wind) : average wind orientation 'X' and average wind speed 'Y'.
     -h (height) : altitude in descending order.
